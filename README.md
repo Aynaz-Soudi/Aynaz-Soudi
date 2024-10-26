@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/Aynaz-Soudi"> Aynaz Soudi </a></h1>
 
 <h2>About Me</h2>
-😍 I'm captivated by the world of <b> front-end<b> development.</br>
-🧠 I'm constantly learning new things and striving to improve my skills in this field.</br>
-✨ My ultimate goal is to create websites that are both visually appealing and user-friendly.
+I'm captivated by the world of <b> front-end<b> development.</br>
+I'm constantly learning new things and striving to improve my skills in this field.</br>
+My ultimate goal is to create websites that are both visually appealing and user-friendly.
 
 <h2>Skills</h2>
 <a href="https://skillicons.dev">
