@@ -10,6 +10,12 @@ My ultimate goal is to create websites that are both visually appealing and user
     <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,tailwind,bootstrap,git,github,vscode,figma" />
 </a>
 
+<!--- <div align="left">
+  
+[![](https://visitcount.itsvg.in/api?id=Aynaz-Soudi&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div> -->
+
 <!--- <h2>Stats</h2>
 <p align="left">
 <table align="left">
